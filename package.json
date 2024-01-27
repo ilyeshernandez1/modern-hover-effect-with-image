@@ -2,10 +2,9 @@
   "name": "vanilla-starter",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build"
+    "build": "parcel build index.html"
   },
   "keywords": [],
   "author": "",
