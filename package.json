@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "2.11.0",
+    "parcel": "^2.11.0",
+    "sass": "^1.70.0",
+    "typescript": "^5.3.3"
+  }
+}
